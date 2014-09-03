@@ -1,0 +1,30 @@
+{
+    "name": "ramandeepsinghmann/Workflow",
+    "description": "This Module hold the sequence of industrial, administrative, or other processes through which a piece of work passes from initiation to completion",
+    "type": "library",
+    "keywords": [
+        "zf2",
+        "Workflow",
+        "initiation",
+        "Process",
+        "Track flow",
+        "flow",
+        "administrative",
+        "sequence"
+    ],
+    "homepage": "https://github.com/ramandeepsinghmann/Workflow",
+    "authors": [
+        {
+            "name": "Ramandeep Singh Mann",
+            "email": "raman.mann01@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
